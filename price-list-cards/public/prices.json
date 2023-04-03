@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 20,
+      "features": [
+        "Cardio equipment access",
+        "Weight lifting equipment access",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 50,
+      "features": [
+        "Cardio equipment access",
+        "Weight lifting equipment access",
+        "Locker room access",
+        "Group fitness classes",
+        "1 personal training session/month"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elite Membership",
+      "price": 100,
+      "features": [
+        "Cardio equipment access",
+        "Weight lifting equipment access",
+        "Locker room access",
+        "Group fitness classes",
+        "1 personal training session/week",
+        "Unlimited tanning"
+      ]
+    }
+  ]
+  
